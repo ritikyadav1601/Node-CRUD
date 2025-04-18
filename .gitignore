@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# dotenv environment files
+.env
+
+# OS files
+.DS_Store
+
+# Optional:
+dist/
+coverage/
